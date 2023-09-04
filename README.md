@@ -4,4 +4,4 @@ Um keylogger é um tipo de software ou dispositivo que registra secretamente as 
 
 Este código em Python usa a biblioteca 'pynput' para monitorar as teclas pressionadas no teclado e registrar essas informações em um arquivo de log.
 
-![Imagem da Aplicação](key.jpg)
+![Imagem da Aplicação](key.png)
