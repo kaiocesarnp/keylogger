@@ -78,3 +78,4 @@ with Listener(on_press = on_press, on_release = on_release) as listener:
 
 #O programa continuará sendo executado e monitorando as teclas até que a tecla "ESC" seja pressionada,
     #momento em que o programa se encerrará e o arquivo de log "log.txt" conterá as teclas pressionadas durante a execução.
+    
